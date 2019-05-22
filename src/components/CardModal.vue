@@ -117,8 +117,6 @@ export default {
   methods: {}
 };
 </script>
-
-
 <style lang="less" scoped>
 .modal-mask {
   position: fixed;
@@ -131,12 +129,10 @@ export default {
   display: table;
   transition: opacity 0.3s ease;
 }
-
 .modal-wrapper {
   display: table-cell;
   vertical-align: middle;
 }
-
 .modal-container {
   width: 768px;
   z-index: 25;
@@ -174,7 +170,6 @@ export default {
     }
   }
 }
-
 .modal-default-button {
   float: right;
 }

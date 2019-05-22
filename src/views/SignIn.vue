@@ -124,8 +124,6 @@ export default {
   }
 };
 </script>
-
-
 <style lang="less" scoped>
 @shadow: #b8b8b8;
 .boxshadow {
@@ -153,7 +151,6 @@ h1 {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-
   div {
     margin: 10px 0;
     padding: 5px 0;
